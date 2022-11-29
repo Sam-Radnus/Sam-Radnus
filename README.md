@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/sambath-s-97bb691b5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="https://twitter.com/Public_Void_Sam" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-radnus&count_private=true&show_icons=true&theme=tokyonight)](https://www.github.com/safelock)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-radnus&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Sam-Radnus?tab=repositories)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-radnus&layout=compact&theme=tokyonight)](https://github.com/Sam-Radnus?tab=repositories)
 
 
