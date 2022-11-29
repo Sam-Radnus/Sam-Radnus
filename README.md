@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sam-radnus&count_private=true&show_icons=true&theme=tokyonight)](https://www.github.com/safelock)
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sam-radnus&layout=compact&theme=tokyonight)](https://github.com/Sam-Radnus?tab=repositories)
 
-<a href="https://www.twitter.com/danielcranney" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/danielcranney?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+
 
 ### Badges
 
