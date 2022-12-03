@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 ### Badges
 <b>My GitHub Stats</b>
 
-<a
-                      href="https://github.com/Sam-Radnus"><img src="https://activity-graph.herokuapp.com/graph?username=Sam-Radnus&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 
