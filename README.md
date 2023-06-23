@@ -54,7 +54,6 @@ Like My Work?
 </details>
 
 
-<--->
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
