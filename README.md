@@ -19,19 +19,19 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Django, React, <br /> AWS, Socket.io, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; I’m currently working with Django, React,NextJS, <br /> AWS, Socket.io, Javascript, etc.
+- 🚀 &nbsp; I’m build Robust Full Stack Web Applications and I am freelancer checkout [Fiverr Profile](https://www.fiverr.com/sam_sundar2001).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sam-Radnus).
-- 💬 &nbsp; Ask me about anything [here](https://sam-sundar.vercel.app/contact)! I am happy to help.
+- 💬 &nbsp; Ask me about anything  [here](https://sam-sundar.vercel.app/contact)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: samradnus2001@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/189eMMLqHnL2Q1aenGGVoiWBQHhaP1gtJ/view?usp=sharing).
+- 📝 &nbsp; Checkout my Lovely [Resume](https://drive.google.com/file/d/16OdRnX76mw2Dv9cltpG5F-dHJzza5wTr/view?usp=sharing).
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
+- 🍕 &nbsp; Hackathons, Coding Contest, meetups & tech events.
  <!-->
 
 ### Projects and Dev Stuffs:
