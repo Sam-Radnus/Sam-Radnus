@@ -8,7 +8,7 @@
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 
-I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a Software Developer with Strong Problem-solving and Analytical skills💡. I have worked on a Diverse Set of Applications such as Real-Time Video Calling Application, CRM Tools, Stock Management Applications, Discord Bots, This [E-Commerce Store](https://www.ohlocal.in/explore) etc.
 
 Joined Github 4 years ago.
 Like My Work?
@@ -19,7 +19,7 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Django, React,NextJS, <br /> AWS, Machine Learning, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Typescript, NextJS, AWS, Machine Learning etc.
 - 🚀 &nbsp; I’m build Robust Full Stack Web Applications and I am freelancer checkout my [Fiverr Profile](https://www.fiverr.com/sam_sundar2001).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sam-Radnus).
 - 💬 &nbsp; Ask me about anything  [here](https://sam-sundar.vercel.app/contact)! I am happy to help.
