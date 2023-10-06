@@ -19,8 +19,8 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Django, React,NextJS, <br /> AWS, Socket.io, Javascript, etc.
-- 🚀 &nbsp; I’m build Robust Full Stack Web Applications and I am freelancer checkout [Fiverr Profile](https://www.fiverr.com/sam_sundar2001).
+- 🛠 &nbsp; I’m currently working with Django, React,NextJS, <br /> AWS, Machine Learning, Javascript, etc.
+- 🚀 &nbsp; I’m build Robust Full Stack Web Applications and I am freelancer checkout my [Fiverr Profile](https://www.fiverr.com/sam_sundar2001).
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Sam-Radnus).
 - 💬 &nbsp; Ask me about anything  [here](https://sam-sundar.vercel.app/contact)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
