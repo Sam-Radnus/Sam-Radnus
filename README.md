@@ -8,7 +8,7 @@
 
 <!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 
-I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a Software Developer with Strong Problem-solving and Analytical skills💡. I have worked on a Diverse Set of Applications such as Real-Time Video Calling Application, CRM Tools, Stock Management Applications, Discord Bots, This [E-Commerce Store](https://www.ohlocal.in/explore) etc.
+I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a Software Developer with Strong Problem-solving and Analytical skills💡. I have worked on a Diverse Set of Applications such as Real-Time Video Calling Application, CRM Tools, Stock Management Applications, Discord Bots.
 
 Joined Github 4 years ago.
 Like My Work?
