@@ -6,7 +6,6 @@
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=YouTube&logoColor=white&labelColor=red&color=black)](https://www.youtube.com/channel/UCKr8os6tlFpWVWGoIGLeemg)
 [![Leetcode Badge](https://img.shields.io/badge/-leetcode-e4405f?style=flat-square&logo=leetcode&logoColor=white&labelColor=green&color=black)](https://leetcode.com/Sam_Sundar/)
 
-<!-- ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc) -->
 
 I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a Software Developer with Strong Problem-solving and Analytical skills💡. I have worked on a Diverse Set of Applications such as Real-Time Video Calling Application, CRM Tools, Stock Management Applications, Discord Bots.
 
