@@ -1,10 +1,10 @@
 ## Hey 👋, I'm [Sam-Radnus!](https://github.com/Sam-Radnus)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&labelColor=darkblue&color=black)](https://www.linkedin.com/in/sambath-s-sundar/)
-[![Website Badge](https://img.shields.io/badge/portfolio-3b5998?style=flat-square&logo=brave&logoColor=white&color=black&labelColor=red)](https://sam-sundar.vercel.app/)
-[![Twitter Badge](https://img.shields.io/badge/twitter-3b5998?style=flat-square&logo=twitter&logoColor=white&color=black&labelColor=blue)](https://twitter.com/Public_Void_Sam)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=YouTube&logoColor=white&labelColor=red&color=black)](https://www.youtube.com/channel/UCKr8os6tlFpWVWGoIGLeemg)
-[![Leetcode Badge](https://img.shields.io/badge/-leetcode-e4405f?style=flat-square&logo=leetcode&logoColor=white&labelColor=green&color=black)](https://leetcode.com/Sam_Sundar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2)](https://www.linkedin.com/in/sambath-s-sundar/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&labelColor=000000&color=000000)](https://twitter.com/Public_Void_Sam)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000)](https://www.youtube.com/channel/UCKr8os6tlFpWVWGoIGLeemg)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&labelColor=FFA116&color=FFA116)](https://leetcode.com/Sam_Sundar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&labelColor=FF0000&color=FF0000)](https://sam-sundar.vercel.app/)
 
 
 I'm a graduate in Computer Science 🎓 from Kerala Technolgical University 🏛. I'm a Software Developer with Strong Problem-solving and Analytical skills💡. I have worked on a Diverse Set of Applications such as Real-Time Video Calling Application, CRM Tools, Stock Management Applications, Discord Bots.
